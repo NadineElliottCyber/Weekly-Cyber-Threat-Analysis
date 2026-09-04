@@ -21,7 +21,7 @@ The goal of this project is to strengthen my ability to evaluate emerging threat
 
 | Date | Threat / Vulnerability | Analysis |
 |------|------------------------|----------|
-| September 2026 | Coming Soon | 🔜 |
+| September 2026 | Microsoft Exchange CVE-2026-62911 | [View Analysis](Week-01-Microsoft-Exchange-CVE-2026-62911/) |
 
 ---
 
