@@ -21,7 +21,8 @@ The goal of this project is to strengthen my ability to evaluate emerging threat
 
 | Date | Threat / Vulnerability | Analysis |
 |------|------------------------|----------|
-| September 2026 | Microsoft Exchange CVE-2026-62911 | [View Analysis](Week-01-Microsoft-Exchange-CVE-2026-62911/) |
+| September 3, 2026 | Microsoft Exchange CVE-2026-62911 | [View Analysis](Week-01-Microsoft-Exchange-CVE-2026-62911/) |
+| September 11, 2026 | Microsoft September 2026 Patch Tuesday — 2 Actively Exploited Zero-Days | [View Analysis](Week-02-Microsoft-Patch-Tuesday-Zero-Days/) |
 
 ---
 
