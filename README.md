@@ -23,6 +23,7 @@ The goal of this project is to strengthen my ability to evaluate emerging threat
 |------|------------------------|----------|
 | September 3, 2026 | Microsoft Exchange CVE-2026-62911 | [View Analysis](Week-01-Microsoft-Exchange-CVE-2026-62911/) |
 | September 11, 2026 | Microsoft September 2026 Patch Tuesday — 2 Actively Exploited Zero-Days | [View Analysis](Week-02-Microsoft-Patch-Tuesday-Zero-Days/) |
+| September 18, 2026 | Cisco ISE CVE-2026-76460 — Authentication Bypass to Root Access | [View Analysis](Week-03-Cisco-ISE-Authentication-Bypass/) |
 
 ---
 
